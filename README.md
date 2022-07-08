@@ -1,4 +1,4 @@
-# XM Cloud Style Guide (Next JS) - Updated
+# XM Cloud Style Guide (Next JS) - Updated twice
 
 ## QUICK START
 
